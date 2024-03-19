@@ -1,6 +1,8 @@
 # mockup-online-shop
  
-A mockup of an online shop to display a possible homepage design
+A mockup of an online shop to display a possible homepage design.
+The website is optimized for desktop, as well as smaller formats. Simply resize the window to view all formats
+
 
 To run the website:
 1. Clone the repo
